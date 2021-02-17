@@ -1,0 +1,15 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.1",
+  "description": "Primer Trabajo",
+  "main": "Cursos.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandra ale_118252@hotmail.com",
+  "license": "ISC"
+}
